@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{36DA766C-7B9F-40A3-3548-EF6664B29295}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AndroidCaller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AndroidCaller.cs" Line="13" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MessageUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="AndroidCaller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="41a9d5f1-29b3-4d12-9211-589f68787314" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

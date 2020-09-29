@@ -29,6 +29,17 @@ public class MessageUtil {
         }
     }
 
+
+    public static void sendMessenger(Context context, String number)
+    {
+        send(context, number, App.MESSENGER);
+    }
+
+    public static void sendWhatsapp(Context context, String number, String message)
+    {
+        send(context, message, number, App.WHATSAPP);
+    }
+
     public static void send(Context pContext, String number, App app) {
         send(pContext, "", number, app);
     }
