@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_send">Send</string>
+
+    <string name="lbl_message">Message</string>
+    <string name="lbl_number">Number</string>
+
+    <string name="title_which_one">Which one?</string>
+
+    <string-array name="contact_array">
+        <item>Whatsapp</item>
+        <item>Messenger</item>
+    </string-array>
+
+</resources>
