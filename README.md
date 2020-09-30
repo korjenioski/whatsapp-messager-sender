@@ -1,5 +1,5 @@
 # whatsapp-messager-sender
-Send a message using facebook messenger and whatsapp for a particular number/userid, with a predefined
+Send a message using facebook messenger or whatsapp for a particular number/userid, with a predefined
 message.
 
 
